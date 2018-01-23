@@ -1,5 +1,10 @@
 <head>
-  <style> h1:first-of-type {display: none;}</style>
+  <style> 
+    h1:first-of-type {display: none;}
+    h1 {display: inline;
+}
+  
+  </style>
 </head>
 <img src="https://github.com/testpagesclbo/testpagesclbo.github.io/raw/master/logokea.png" />
 
