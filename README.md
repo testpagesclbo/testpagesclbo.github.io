@@ -6,8 +6,8 @@
   
 </head>
 
-## DAT17I - SWC SPRING 2018
-<table class="table table-striped">
+## DAT17I - SWC II SPRING 2018
+<table>
   <tr>
       <th>Week</th>
       <th>Date</th>
