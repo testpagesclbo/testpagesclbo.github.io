@@ -1,7 +1,7 @@
 <head>
   <style> 
     h1:first-of-type {display: none;}
-    #image {display: inline;}
+    #image {float: left;}
   
   </style>
 </head>
