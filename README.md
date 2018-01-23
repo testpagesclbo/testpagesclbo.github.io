@@ -3,7 +3,8 @@
     h1:first-of-type {display: none;}
     #image {
         float: left;
-        width: 100px;
+        width: 65px;
+        margin-right: 10px; 
     }
   
   </style>
