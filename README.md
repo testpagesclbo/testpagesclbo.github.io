@@ -5,7 +5,7 @@
   </style>
   
 </head>
-<img src="https://github.com/testpagesclbo/testpagesclbo.github.io/blob/master/logokea.png" />
+<img src="https://github.com/testpagesclbo/testpagesclbo.github.io/raw/master/logokea.png" />
 
 # DAT17I - SWC II SPRING 2018
 
