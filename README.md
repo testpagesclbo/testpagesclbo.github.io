@@ -1,12 +1,11 @@
 <head>
   <style> 
     h1:first-of-type {display: none;}
-    h1 {display: inline;
-}
+    #image {display: inline;}
   
   </style>
 </head>
-<img src="https://github.com/testpagesclbo/testpagesclbo.github.io/raw/master/logokea.png" />
+<img src="https://github.com/testpagesclbo/testpagesclbo.github.io/raw/master/logokea.png" id="image" />
 
 # DAT17I - SWC II SPRING 2018
 
