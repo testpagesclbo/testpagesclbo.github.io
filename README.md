@@ -4,7 +4,7 @@
     #image {
         float: left;
         width: 65px;
-        margin-right: 10px; 
+        margin-right: 20px; 
     }
   
   </style>
