@@ -1,8 +1,10 @@
 <head>
+  
   <style>
-    body {background-color:#999}
+    h1 {display: none;}
   </style>
-  </head>
+  
+</head>
 
 # DAT17I - SWC SPRING 2018
 <table class="table table-striped">
