@@ -1,12 +1,12 @@
 <head>
   
   <style>
-    h1 {display: none;}
+    h1:first-of-type {display: none;}
   </style>
   
 </head>
 
-## DAT17I - SWC II SPRING 2018
+# DAT17I - SWC II SPRING 2018
 <table>
   <tr>
       <th>Week</th>
